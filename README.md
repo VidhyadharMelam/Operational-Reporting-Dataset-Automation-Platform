@@ -47,7 +47,7 @@ It follows the **Medallion Architecture (Bronze → Silver → Gold)** to ensure
 - Example KPIs: SLA compliance %, Avg processing time, Workforce utilization.  
 
 ### 4. Visualization
-- Tableau/Power BI dashboard combining KPIs, trends, and filters.  
+- Power BI dashboard combining KPIs, trends, and filters.  
 - Recruiter‑friendly layout: KPI cards at the top, trend chart in the middle, filters on the side, insights at the bottom.  
 
 ---
