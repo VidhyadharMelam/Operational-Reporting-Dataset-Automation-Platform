@@ -12,7 +12,7 @@ It follows the **Medallion Architecture (Bronze → Silver → Gold)** to ensure
 - **Databricks + PySpark** → Data ingestion, cleaning, and transformation  
 - **Delta Lake** → Reliable storage across Bronze, Silver, and Gold layers  
 - **SQL** → Dimensional modeling and KPI aggregation  
-- **Tableau / Power BI** → Dashboard creation and KPI visualization  
+- **Power BI** → Dashboard creation and KPI visualization  
 
 ---
 
