@@ -75,8 +75,8 @@ It follows the **Medallion Architecture (Bronze → Silver → Gold)** to ensure
 Code
 
 ---
-
-## Recruiter Note
+ 
+## Note
 This project highlights my ability to:
 - Automate ETL pipelines with Databricks + PySpark  
 - Apply SQL transformations for dimensional modeling  
